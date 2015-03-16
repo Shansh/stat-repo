@@ -3,3 +3,5 @@ Ave Cezare
 Morituri te salutant
 
 Hello World!
+
+Sve su to potrebne stvari.
